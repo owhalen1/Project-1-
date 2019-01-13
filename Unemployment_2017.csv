@@ -1,0 +1,391 @@
+City,Unemployment 2017,Rank
+United States,4.40,
+,,
+Ames,2.00,1
+Urban Honolulu,2.20,2
+Boulder,2.40,3
+Burlington-South Burlington,2.40,3
+Dover-Durham,2.40,3
+Fargo,2.40,3
+Fort Collins,2.40,3
+Portsmouth,2.40,3
+Elkhart-Goshen,2.50,9
+Iowa City,2.50,9
+Kahului-Wailuku-Lahaina,2.50,9
+Madison,2.50,9
+Bismarck,2.60,13
+Columbia,2.60,13
+Idaho Falls,2.60,13
+Lincoln,2.60,13
+Manchester,2.60,13
+Portland-South Portland,2.60,13
+Columbus,2.70,19
+Denver-Aurora-Lakewood,2.70,19
+Greeley,2.70,19
+Logan,2.70,19
+Fayetteville-Springdale-Rogers,2.80,23
+Fond du Lac,2.80,23
+Grand Forks,2.80,23
+Mankato-North Mankato,2.80,23
+Sheboygan,2.80,23
+Sioux Falls,2.80,23
+Des Moines-West Des Moines,2.90,29
+Nashville-Davidson--Murfreesboro--Franklin,2.90,29
+Provo-Orem,2.90,29
+Rochester,2.90,29
+Amarillo,3.00,33
+Appleton,3.00,33
+Dubuque,3.00,33
+Green Bay,3.00,33
+La Crosse-Onalaska,3.00,33
+Manhattan,3.00,33
+Midland,3.00,33
+Omaha-Council Bluffs,3.00,33
+Oshkosh-Neenah,3.00,33
+Pocatello,3.00,33
+Wausau,3.00,33
+Austin-Round Rock,3.10,44
+Boise City,3.10,44
+Eau Claire,3.10,44
+Lewiston-Auburn,3.10,44
+Salt Lake City,3.10,44
+College Station-Bryan,3.20,49
+Jefferson City,3.20,49
+Jonesboro,3.20,49
+Lafayette-West Lafayette,3.20,49
+Lawrence,3.20,49
+Lubbock,3.20,49
+Minneapolis-St. Paul-Bloomington,3.20,49
+Sioux City,3.20,49
+Springfield,3.20,49
+Charlottesville,3.30,58
+Colorado Springs,3.30,58
+Corvallis,3.30,58
+Fort Wayne,3.30,58
+Grand Island,3.30,58
+Indianapolis-Carmel-Anderson,3.30,58
+Lewiston,3.30,58
+Little Rock-North Little Rock-Conway,3.30,58
+Ogden-Clearfield,3.30,58
+San Francisco-Oakland-Hayward,3.30,58
+San Jose-Sunnyvale-Santa Clara,3.30,58
+Bangor,3.40,69
+Boston-Cambridge-Nashua,3.40,69
+Cedar Rapids,3.40,69
+Crestview-Fort Walton Beach-Destin,3.40,69
+Evansville,3.40,69
+Joplin,3.40,69
+St. Joseph,3.40,69
+Santa Rosa,3.40,69
+Winchester,3.40,69
+Billings,3.50,78
+Knoxville,3.50,78
+Milwaukee-Waukesha-West Allis,3.50,78
+Rapid City,3.50,78
+St. Cloud,3.50,78
+St. George,3.50,78
+San Antonio-New Braunfels,3.50,78
+Sherman-Denison,3.50,78
+Ann Arbor,3.60,86
+Charleston-North Charleston,3.60,86
+Dallas-Fort Worth-Arlington,3.60,86
+Grand Rapids-Wyoming,3.60,86
+Missoula,3.60,86
+San Luis Obispo-Paso Robles-Arroyo Grande,3.60,86
+Staunton-Waynesboro,3.60,86
+Topeka,3.60,86
+Waterloo-Cedar Falls,3.60,86
+Abilene,3.70,95
+Asheville,3.70,95
+Bloomington,3.70,95
+Cheyenne,3.70,95
+Gainesville,3.70,95
+Gettysburg,3.70,95
+Harrisonburg,3.70,95
+Janesville-Beloit,3.70,95
+Napa,3.70,95
+St. Louis,3.70,95
+San Angelo,3.70,95
+South Bend-Mishawaka,3.70,95
+State College,3.70,95
+Washington-Arlington-Alexandria,3.70,95
+Wichita Falls,3.70,95
+Cape Girardeau,3.80,110
+Cleveland,3.80,110
+Coeur d'Alene,3.80,110
+Great Falls,3.80,110
+Greenville-Anderson-Mauldin,3.80,110
+Kansas City,3.80,110
+Kokomo,3.80,110
+Lancaster,3.80,110
+Lexington-Fayette,3.80,110
+Orlando-Kissimmee-Sanford,3.80,110
+Roanoke,3.80,110
+Auburn-Opelika,3.90,121
+Chattanooga,3.90,121
+Danbury,3.90,121
+Enid,3.90,121
+Gainesville,3.90,121
+Huntsville,3.90,121
+Jacksonville,3.90,121
+Lake Charles,3.90,121
+North Port-Sarasota-Bradenton,3.90,121
+Oklahoma City,3.90,121
+Portland-Vancouver-Hillsboro,3.90,121
+Richmond,3.90,121
+Tampa-St. Petersburg-Clearwater,3.90,121
+Waco,3.90,121
+Worcester,3.90,121
+Birmingham-Hoover,4.00,136
+California-Lexington Park,4.00,136
+Cape Coral-Fort Myers,4.00,136
+Daphne-Fairhope-Foley,4.00,136
+Durham-Chapel Hill,4.00,136
+Grand Junction,4.00,136
+Hilton Head Island-Bluffton-Beaufort,4.00,136
+Hot Springs,4.00,136
+Jackson,4.00,136
+Morgantown,4.00,136
+Morristown,4.00,136
+Pensacola-Ferry Pass-Brent,4.00,136
+Raleigh,4.00,136
+San Diego-Carlsbad,4.00,136
+Tallahassee,4.00,136
+Bloomington,4.10,151
+Columbia,4.10,151
+Columbus,4.10,151
+Johnson City,4.10,151
+Kingsport-Bristol-Bristol,4.10,151
+Lebanon,4.10,151
+Louisville/Jefferson County,4.10,151
+Naples-Immokalee-Marco Island,4.10,151
+Odessa,4.10,151
+Panama City,4.10,151
+Racine,4.10,151
+Seattle-Tacoma-Bellevue,4.10,151
+Spartanburg,4.10,151
+Trenton,4.10,151
+Tyler,4.10,151
+Wichita,4.10,151
+Bend-Redmond,4.20,167
+Champaign-Urbana,4.20,167
+Fort Smith,4.20,167
+Hagerstown-Martinsburg,4.20,167
+Harrisburg-Carlisle,4.20,167
+Hickory-Lenoir-Morganton,4.20,167
+Killeen-Temple,4.20,167
+Lansing-East Lansing,4.20,167
+Laredo,4.20,167
+Montgomery,4.20,167
+Muncie,4.20,167
+Palm Bay-Melbourne-Titusville,4.20,167
+Phoenix-Mesa-Scottsdale,4.20,167
+Reno,4.20,167
+Springfield,4.20,167
+Virginia Beach-Norfolk-Newport News,4.20,167
+Albany-Schenectady-Troy,4.30,183
+Baltimore-Columbia-Towson,4.30,183
+Blacksburg-Christiansburg-Radford,4.30,183
+Bowling Green,4.30,183
+Burlington,4.30,183
+Charlotte-Concord-Gastonia,4.30,183
+Cincinnati,4.30,183
+Decatur,4.30,183
+Leominster-Gardner,4.30,183
+Lynchburg,4.30,183
+Memphis,4.30,183
+Miami-Fort Lauderdale-West Palm Beach,4.30,183
+Pueblo,4.30,183
+Salem,4.30,183
+Terre Haute,4.30,183
+Tuscaloosa,4.30,183
+Wilmington,4.30,183
+Athens-Clarke County,4.40,200
+Barnstable Town,4.40,200
+Davenport-Moline-Rock Island,4.40,200
+Deltona-Daytona Beach-Ormond Beach,4.40,200
+Detroit-Warren-Dearborn,4.40,200
+Dothan,4.40,200
+Ithaca,4.40,200
+Jackson,4.40,200
+Lawton,4.40,200
+Los Angeles-Long Beach-Anaheim,4.40,200
+Pittsfield,4.40,200
+Savannah,4.40,200
+Winston-Salem,4.40,200
+York-Hanover,4.40,200
+Atlanta-Sandy Springs-Roswell,4.50,214
+Baton Rouge,4.50,214
+Chambersburg-Waynesboro,4.50,214
+Eugene,4.50,214
+Hattiesburg,4.50,214
+Kalamazoo-Portage,4.50,214
+Michigan City-La Porte,4.50,214
+New York-Newark-Jersey City,4.50,214
+Owensboro,4.50,214
+Oxnard-Thousand Oaks-Ventura,4.50,214
+Prescott,4.50,214
+Providence-Warwick,4.50,214
+Sacramento--Roseville--Arden-Arcade,4.50,214
+Santa Maria-Santa Barbara,4.50,214
+Springfield,4.50,214
+Texarkana,4.50,214
+Tucson,4.50,214
+Tulsa,4.50,214
+Clarksville,4.60,232
+Duluth,4.60,232
+El Paso,4.60,232
+Gadsden,4.60,232
+Kingston,4.60,232
+Lakeland-Winter Haven,4.60,232
+New Haven,4.60,232
+Norwich-New London-Westerly,4.60,232
+Punta Gorda,4.60,232
+Reading,4.60,232
+Bridgeport-Stamford-Norwalk,4.70,242
+Dayton,4.70,242
+Elizabethtown-Fort Knox,4.70,242
+Hartford-West Hartford-East Hartford,4.70,242
+Jackson,4.70,242
+New Bern,4.70,242
+Philadelphia-Camden-Wilmington,4.70,242
+Port St. Lucie,4.70,242
+Valdosta,4.70,242
+Albany,4.80,251
+Altoona,4.80,251
+Carbondale-Marion,4.80,251
+Florence,4.80,251
+Florence-Muscle Shoals,4.80,251
+Greensboro-High Point,4.80,251
+Medford,4.80,251
+Midland,4.80,251
+New Orleans-Metairie,4.80,251
+Springfield,4.80,251
+Vallejo-Fairfield,4.80,251
+Victoria,4.80,251
+Allentown-Bethlehem-Easton,4.90,263
+Anniston-Oxford-Jacksonville,4.90,263
+Augusta-Richmond County,4.90,263
+Bloomsburg-Berwick,4.90,263
+Bremerton-Silverdale,4.90,263
+Brunswick,4.90,263
+Chicago-Naperville-Elgin,4.90,263
+Greenville,4.90,263
+Monroe,4.90,263
+Warner Robins,4.90,263
+Battle Creek,5.00,273
+Bellingham,5.00,273
+Dover,5.00,273
+Glens Falls,5.00,273
+Houston-The Woodlands-Sugar Land,5.00,273
+Lima,5.00,273
+Niles-Benton Harbor,5.00,273
+Ocala,5.00,273
+Olympia-Tumwater,5.00,273
+Pine Bluff,5.00,273
+Pittsburgh,5.00,273
+Rochester,5.00,273
+Sebastian-Vero Beach,5.00,273
+Walla Walla,5.00,273
+Akron,5.10,287
+Carson City,5.10,287
+Goldsboro,5.10,287
+Jacksonville,5.10,287
+Longview,5.10,287
+Myrtle Beach-Conway-North Myrtle Beach,5.10,287
+Riverside-San Bernardino-Ontario,5.10,287
+Santa Fe,5.10,287
+Syracuse,5.10,287
+Wenatchee,5.10,287
+Charleston,5.20,297
+Gulfport-Biloxi-Pascagoula,5.20,297
+Hinesville,5.20,297
+Kankakee,5.20,297
+Las Vegas-Henderson-Paradise,5.20,297
+Macon-Bibb County,5.20,297
+Mobile,5.20,297
+Rome,5.20,297
+Utica-Rome,5.20,297
+Canton-Massillon,5.30,306
+Casper,5.30,306
+Monroe,5.30,306
+Sumter,5.30,306
+Buffalo-Cheektowaga-Niagara Falls,5.40,310
+Grants Pass,5.40,310
+Muskegon,5.40,310
+Peoria,5.40,310
+Albany,5.50,314
+Binghamton,5.50,314
+Columbus,5.50,314
+Decatur,5.50,314
+Houma-Thibodaux,5.50,314
+Mansfield,5.50,314
+Mount Vernon-Anacortes,5.50,314
+Saginaw,5.50,314
+Salisbury,5.50,314
+Shreveport-Bossier City,5.50,314
+Toledo,5.50,314
+Bay City,5.60,325
+Elmira,5.60,325
+Flagstaff,5.60,325
+Huntington-Ashland,5.60,325
+Lafayette,5.60,325
+New Bedford,5.60,325
+Parkersburg-Vienna,5.60,325
+Scranton--Wilkes-Barre--Hazleton,5.60,325
+Sebring,5.60,325
+Sierra Vista-Douglas,5.60,325
+Spokane-Spokane Valley,5.60,325
+Williamsport,5.60,325
+Albuquerque,5.70,337
+Alexandria,5.70,337
+Beckley,5.70,337
+Chico,5.70,337
+Cleveland-Elyria,5.70,337
+Cumberland,5.70,337
+Dalton,5.70,337
+Hammond,5.70,337
+Kennewick-Richland,5.70,337
+Santa Cruz-Watsonville,5.70,337
+Corpus Christi,5.80,347
+Erie,5.80,347
+Fayetteville,5.80,347
+Flint,5.80,347
+Homosassa Springs,5.80,347
+Redding,5.80,347
+Waterbury,5.80,347
+Wheeling,5.80,347
+East Stroudsburg,5.90,355
+Lake Havasu City-Kingman,5.90,355
+The Villages,6.00,357
+Johnstown,6.10,358
+Longview,6.10,358
+Danville,6.30,360
+Fairbanks,6.30,360
+Rockford,6.40,362
+Anchorage,6.60,363
+Watertown-Fort Drum,6.60,363
+Rocky Mount,6.70,365
+Weirton-Steubenville,6.70,365
+Youngstown-Warren-Boardman,6.70,365
+Yakima,6.80,368
+Brownsville-Harlingen,6.90,369
+Las Cruces,6.90,369
+Stockton-Lodi,7.00,371
+Vineland-Bridgeton,7.00,371
+Beaumont-Port Arthur,7.10,373
+Atlantic City-Hammonton,7.20,374
+Farmington,7.20,374
+Salinas,7.20,374
+McAllen-Edinburg-Mission,7.40,377
+Modesto,7.50,378
+Madera,8.10,379
+Yuba City,8.20,380
+Fresno,8.50,381
+Hanford-Corcoran,8.90,382
+Ocean City,9.10,383
+Bakersfield,9.20,384
+Merced,9.30,385
+Visalia-Porterville,10.40,386
+Yuma,17.00,387
+El Centro,19.10,388
